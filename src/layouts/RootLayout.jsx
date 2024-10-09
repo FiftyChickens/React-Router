@@ -7,6 +7,7 @@ const RootLayout = () => {
       <header>
         <nav>
           <NavLink to="/">Home</NavLink>
+          <NavLink to="mercury">Mercury</NavLink>
         </nav>
       </header>
 
