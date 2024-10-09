@@ -9,6 +9,7 @@ const RootLayout = () => {
           <NavLink to="/">Home</NavLink>
           <NavLink to="mercury">Mercury</NavLink>
           <NavLink to="mars">Mars</NavLink>
+          <NavLink to="pluto">Pluto</NavLink>
         </nav>
       </header>
 
