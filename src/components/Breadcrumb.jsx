@@ -9,8 +9,6 @@ const Breadcrumb = () => {
     // Check if the current location is not the root
     if (location.pathname !== "/") {
       navigate(-1);
-    } else {
-      return <p>hi</p>;
     }
   };
   return (
